@@ -1,0 +1,5 @@
+date,user,event,ip_address,userAgent
+2025-05-15T08:15:22Z,jdoe@example.com,login,45.67.89.12,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025-05-15T08:30:45Z,jdoe@example.com,download,45.67.89.12,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025-05-15T08:32:18Z,jdoe@example.com,api_access,45.67.89.12,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025-05-15T09:45:33Z,admin@example.com,password_change,45.67.89.12,"curl/7.68.0"
