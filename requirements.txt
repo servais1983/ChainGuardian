@@ -1,0 +1,5 @@
+# Aucune dépendance obligatoire pour l'instant
+# Versions futures nécessiteront:
+# pandas
+# spaCy
+# Bokeh
